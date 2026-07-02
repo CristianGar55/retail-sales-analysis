@@ -30,6 +30,8 @@ This project examines 1,987 retail sales transactions from 2022-2023 to answer t
 
 Electronics brings in the most revenue, but Clothing ends up with more profit after costs are subtracted. Beauty has the lowest sales total but the best profit margin.
 
+![Category Revenue vs Profit](category_profit_chart.png)
+
 **Why it matters:** Sales totals alone would suggest Electronics is the top category, but it isn't the most profitable one. Clothing and Beauty deserve more attention than their sales numbers suggest.
 
 ### 2. Sales spike sharply in the last few months of the year
